@@ -1,12 +1,11 @@
-# chứa phần code xử lý logic chính
 import cv2
 import numpy as np
 import torch
 
-from util.config import *
 from model.camera_model import CameraModel
 from model.canvas_model import CanvasModel
 from model.mediapipe_model import MediaPipeModel
+from util.config import *
 from util.file_util import get_images, get_model_predict
 
 

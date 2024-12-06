@@ -1,7 +1,3 @@
-# xử lý phần vẽ hình ảnh bao gồm các phần
-# Phần một vẽ ô start ở góc phải bên trên ô
-# Phần 2 thực hiện vẽ dựa trên tọa độ x, y của ngón tay truyền vào,
-# Phần 3 thực hiện lấy cạnh hình chữ nhật bao quanh của hình ảnh đã vẽ và trả về định dạng 28,28
 import cv2
 import numpy as np
 

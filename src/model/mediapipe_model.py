@@ -1,6 +1,3 @@
-# Nhận biết tạo độ của các phần bàn tay
-# trả về số lượng ngón tay đang giơ
-# trả ra vị tri của đầu bút vẽ
 import cv2
 import mediapipe as mp
 import mediapipe.python.solutions.hands as mp_hands

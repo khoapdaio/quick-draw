@@ -1,4 +1,3 @@
-# Xử lý phần nhận hình ảnh
 import cv2
 
 
