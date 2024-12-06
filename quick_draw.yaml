@@ -1,0 +1,21 @@
+draw:
+  apple: 0
+  book: 1
+  bowtie: 2
+  candle: 3
+  cloud: 4
+  cup: 5
+  door: 6
+  envelope: 7
+  eyeglasses: 8
+  guitar: 9
+  hammer: 10
+  hat: 11
+  ice cream: 12
+  leaf: 13
+  scissors: 14
+  star: 15
+  t-shirt: 16
+  pants: 17
+  lightning: 18
+  tree: 19
