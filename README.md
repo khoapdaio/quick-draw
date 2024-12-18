@@ -1,9 +1,9 @@
-<p align="center">
+<div align="center">
  <h1 align="center">Quick Draw</h1>
-</p>
+</div>
 
 
-[![GitHub license](https://img.shields.io/github/license/uvipen/QuickDraw)](https://github.com/khoapdaio/quick-draw/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/khoapdaio/quick-draw)](https://github.com/khoapdaio/quick-draw/blob/main/LICENSE)
 
 
 
